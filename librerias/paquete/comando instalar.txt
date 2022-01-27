@@ -1,0 +1,17 @@
+python setup.py sdist
+
+setup.py (nombre del archivo)
+
+#########	instalar el paquete desde terminal	########
+
+pip3 install paquete-0.1.zip
+
+si no funciona ponersolo 
+pip
+
+# paquetes
+pip3 list
+
+########	desinstalar	#################
+
+pip3 uninstall paquete

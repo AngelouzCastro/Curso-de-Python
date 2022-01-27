@@ -1,0 +1,34 @@
+ordenar listas en una nueva:		sorted()
+ordenar lista original:		.sort()
+sumar:				sum()
+buscar:				index()
+contar elemento espesifico:		count()
+longitud de lista:			len()
+mayor de una lista:			max()
+menor de una lista			min()
+elimina repetidos y ordea		set()
+trabaja en el rango establecido:	range()
+todo en mayusculas			upper()
+todo en minusculas			lower()
+la primera minuscula		capitalize()	
+espesifica que tipo es		type()
+elimina valor			del()
+recorre todos los items:		item()	#dicionarios
+elimina ultimo elemento		pop()	#recomendado para pilas
+elimina primer elemento		popleft()	#recomendadno para colas
+separar por sierto signo		split(sign)
+cadena al reves			dos = ''.join(reversed(cadena[1]))
+
+agrega a listas, pilas, colas		append()
+agrega a conjuntos			add()	#conjunto = set() / conjunto.add()
+
+tupla = (var, var ,lista , var)
+dicionarios = {var : var, var : var}
+conjuntos={var,var,var}
+listas = [var,var,lista,var]
+
+/////////////////		Librerias		//////////////////////
+
+colas:				from collections import deque
+compatible con el sistema:		import sys
+tiempo:				import datetime
